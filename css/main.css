@@ -1,0 +1,31 @@
+a {
+    float: left;
+    box-shadow: #EFEFEF 3px 3px 0px;
+    text-align: center;
+    width: 194px;
+    height: 252px;
+    padding-top: 35px;
+    margin-left: 13px;
+    text-decoration: none;
+    color: gray;
+    background: #FBFBFB;
+}
+a:hover {
+  -webkit-transition-duration: 0.2s;
+  -webkit-transform:scale(1.2);
+  color: #A8BADA;
+}
+h3{
+    font-family: 'Bree Serif', serif;
+}
+.cursive{
+    font-style: oblique;
+    color: gray !important;
+}
+.text{
+    font-family: 'Muli', sans-serif;
+    font-size: 10px;
+}
+span{
+    font-size: 40px;    
+}
